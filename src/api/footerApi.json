@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Shivamogga, Karnataka"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "0123456789"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail Us",
+      "details": "vinayakayattinamane@gmail.com"
+    }
+  ]
